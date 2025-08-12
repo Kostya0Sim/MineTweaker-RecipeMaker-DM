@@ -1,2 +1,2 @@
-# MineTweaker-RecipeMaker-DM
-The GUI retexture for RecipeMaker addon for MineTweaker.
+# ![logo](https://github.com/Kostya0Sim/MineTweaker-RecipeMaker-DM/blob/main/pack.png) Minetweaker Recipe Maker: DM
+This __resource pack__ changes the appearance of the [MineTweaker RecipeMaker](https://www.curseforge.com/minecraft/mc-mods/minetweaker-recipemaker) mod's GUI to the <span style="color: #34495e;">darker </span> and <span style="color: #ba372a;">less saturated</span> <span style="color: #e03e2d;">tones </span> like in a [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) __resource pack__.
